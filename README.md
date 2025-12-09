@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This is a full-stack web application built with **Laravel 11** (backend) and **Vue 3** (frontend) implementing a **CRUD system** with user authentication. The application allows users to **Create, Read, Update, and Delete** tasks (or any other chosen module), while securely managing authenticated operations via **Laravel Sanctum**.
+This is a full-stack web application built with **Laravel 12** (backend) and **Vue 3** (frontend) implementing a **CRUD system** with user authentication. The application allows users to **Create, Read, Update, and Delete** tasks (or any other chosen module), while securely managing authenticated operations via **Laravel Sanctum**.
 
 ---
 
