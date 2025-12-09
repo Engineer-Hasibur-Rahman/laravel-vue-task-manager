@@ -189,8 +189,3 @@ src/
 | GET    | /api/tasks/{id} | Get task details |
 | PUT    | /api/tasks/{id} | Update task      |
 | DELETE | /api/tasks/{id} | Delete task      |
-
-
-
-
-
