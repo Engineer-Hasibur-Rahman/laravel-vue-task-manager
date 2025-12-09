@@ -1,6 +1,3 @@
-Here’s a professional **README.md** for your Laravel + Vue CRUD project, written clearly so you can submit it as part of your assignment:
-
----
 
 # Laravel + Vue 3 CRUD Application
 
