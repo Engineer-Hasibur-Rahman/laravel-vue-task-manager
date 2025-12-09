@@ -61,7 +61,7 @@ This is a full-stack web application built with **Laravel 12** (backend) and **V
 
 **Backend:**
 
-* PHP 8+ / Laravel 11
+* PHP 8+ / Laravel 12
 * Laravel Sanctum for API authentication
 * MySQL / MariaDB (or any relational database)
 * Composer for dependency management
